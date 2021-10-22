@@ -1,0 +1,27 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+.Grade{
+  position: absolute;
+width: 1440px;
+height: 398px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(87.13deg, #524A90 41%, #FF7468 101.69%);
+
+}
+.nav{
+  background-color: null;
+}
+.second{
+  position: absolute;
+width: 1440px;
+height: 398px;
+left: 0px;
+top: 0px;
+
+  background: rgba(69, 61, 128, 1);
+
+}
